@@ -5,4 +5,5 @@ const url1 = 'https://www.google.com'
 
 Given('I open', ()=>{
     cy.visit(url1)
+    cy.visit(www.jutarnji.hr)
 })
