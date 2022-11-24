@@ -1,0 +1,20 @@
+{
+  "name": "cucumber_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "@cypress/webpack-preprocessor": "^5.13.1",
+    "cypress": "^10.9.0",
+    "cypress-fill-command": "^1.0.2",
+    "esbuild": "^0.15.10"
+  }
+}
